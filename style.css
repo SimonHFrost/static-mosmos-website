@@ -16,13 +16,19 @@ body {
 .content {
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     height: 100%;
 }
 
 .logo {
     width: 400px;
+}
+
+.logo-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
 
 a:link {
