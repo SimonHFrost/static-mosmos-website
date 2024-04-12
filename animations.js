@@ -2,14 +2,21 @@
 
 document.addEventListener('DOMContentLoaded', function() {
 
-    gsap.registerPlugin(TextPlugin);
+    gsap.registerPlugin(SplitText);
 
-    gsap.to('.the-text', {
-        duration: 1,
-        text: {
-          value: "Your new text",
-          newClass: "class2",
-          delimiter: " ",
-        },
-      });
+    let split = SplitText.create(".the-text", {type: "chars,words"});
+    
+    gsap.to(split.chars, {
+      y: "-50%",
+      duration: 0.1,
+      ease: "sine.inOut",
+      stagger: {
+        each: 0.02,
+        repeat: 1,
+        yoyo: true
+      }
+    });
 });
+
+
+
