@@ -39,3 +39,13 @@ a:link {
 a:visited {
     color: white;
 }
+
+input,
+textarea
+{
+    color: black !important;
+}
+
+input::placeholder {
+    color: black;
+}
