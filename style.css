@@ -1,18 +1,18 @@
 body {
     position: relative;
+    display: flex;
+    flex-direction: column;
 
     background: linear-gradient(to bottom, #0B1326, #0B1326 50%, #17B57E);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    min-height: 100vh;
     color: white;
 
     font-family: "Ubuntu", sans-serif;
     font-weight: 300;
     text-align: center;
 
-    margin-top: 42px;
-    margin-bottom: 42px;
+    padding-top: 42px;
 }
 
 .wrapper {
@@ -22,7 +22,16 @@ body {
     align-items: center;
     text-align: center;
     max-width: 60vw;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    flex: 1;
+}
+
+footer {
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .background-icon-gradient {
