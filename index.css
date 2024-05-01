@@ -1,0 +1,554 @@
+.v3-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.v3-v3 {
+  width: 100%;
+  height: 2331px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  background: linear-gradient(180deg, rgba(11, 19, 38, 1) 41%, rgba(23, 181, 126, 1) 100%);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(51, 51, 51, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.v3-rectangle36 {
+  top: 1692px;
+  left: 113px;
+  width: 1685px;
+  height: 557px;
+  position: absolute;
+}
+.v3-icongradient2 {
+  top: -145px;
+  left: 943px;
+  width: 1042px;
+  height: 1042px;
+  position: absolute;
+}
+.v3-group77 {
+  top: 1627px;
+  left: 113px;
+  width: 1659px;
+  height: 576px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.v3-rectangle29 {
+  top: 100px;
+  left: 22px;
+  width: 1637px;
+  height: 86px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 14px;
+}
+.v3-rectangle30 {
+  top: 221px;
+  left: 22px;
+  width: 1637px;
+  height: 86px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 14px;
+}
+.v3-rectangle31 {
+  top: 342px;
+  left: 22px;
+  width: 1637px;
+  height: 234px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 14px;
+}
+.v3-text {
+  top: 124px;
+  left: 57px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.v3-text02 {
+  top: 245px;
+  left: 57px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.v3-text04 {
+  top: 366px;
+  left: 57px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.v3-text06 {
+  color: rgba(255, 255, 255, 1);
+  width: 550px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.v3-trusted-by {
+  top: 1305px;
+  left: 164px;
+  width: 1592px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.v3-text08 {
+  color: rgba(255, 255, 255, 1);
+  width: 1592px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Tilt Neon;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.v3-hero {
+  top: 128px;
+  left: 457px;
+  width: 1007px;
+  height: 406.89166259765625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.v3-text10 {
+  top: 263.6839599609375px;
+  color: rgba(255, 255, 255, 1);
+  width: 1007px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.v3-logohorizontalblanco {
+  top: 0px;
+  left: 0px;
+  width: 1007px;
+  height: 373px;
+  position: absolute;
+}
+.v3-rectangle28 {
+  top: 153px;
+  left: 408px;
+  width: 398px;
+  height: 84px;
+  position: absolute;
+}
+.v3-text12 {
+  top: 153.436767578125px;
+  left: 335.28759765625px;
+  color: rgba(255, 255, 255, 1);
+  width: 547px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.v3-portraits {
+  top: 597px;
+  left: 121px;
+  width: 1675.49072265625px;
+  height: 718px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.v3-simon {
+  top: 0px;
+  left: 1186px;
+  width: 489.49072265625px;
+  height: 718px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+}
+.v3-background {
+  top: -18px;
+  left: 30.593170166015625px;
+  width: 434px;
+  height: 495px;
+  position: absolute;
+}
+.v3-simonhfrostanacrylicbustportraitpaintingofanewzeal {
+  top: 9px;
+  left: 54px;
+  width: 382px;
+  height: 437px;
+  position: absolute;
+  border-radius: 20px;
+}
+.v3-group73 {
+  top: 594px;
+  left: 130.53085327148438px;
+  width: 228.42901611328125px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.v3-linked-iniconcircle1 {
+  top: 0px;
+  left: 0px;
+  width: 63px;
+  height: 62px;
+  position: absolute;
+}
+.v3-githublogo1 {
+  top: 0px;
+  left: 81.581787109375px;
+  width: 63px;
+  height: 62px;
+  position: absolute;
+}
+.v3-globe1 {
+  top: 0px;
+  left: 163.16357421875px;
+  width: 65px;
+  height: 64px;
+  position: absolute;
+}
+.v3-text14 {
+  top: 535px;
+  left: 4.079089164733887px;
+  color: rgba(255, 255, 255, 1);
+  width: 485px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.v3-frame8 {
+  top: 497px;
+  left: 4px;
+  width: 476px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.v3-text16 {
+  color: rgba(255, 255, 255, 1);
+  width: 476px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.v3-group75 {
+  top: 0px;
+  left: 591.7646484375px;
+  width: 489.49072265625px;
+  height: 718px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.v3-jakub {
+  top: 0px;
+  left: 0px;
+  width: 489.49072265625px;
+  height: 718px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 42px;
+}
+.v3-background1 {
+  top: -18px;
+  left: 30.593170166015625px;
+  width: 434px;
+  height: 495px;
+  position: absolute;
+}
+.v3-simonhfrostanacrylicbustportraitpaintingofanewzeal1 {
+  top: 9px;
+  left: 54px;
+  width: 382px;
+  height: 437px;
+  position: absolute;
+  border-radius: 20px;
+}
+.v3-group731 {
+  top: 594px;
+  left: 130.53085327148438px;
+  width: 228.42901611328125px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.v3-linked-iniconcircle11 {
+  top: 0px;
+  left: 0px;
+  width: 63px;
+  height: 62px;
+  position: absolute;
+}
+.v3-githublogo11 {
+  top: 0px;
+  left: 81.581787109375px;
+  width: 63px;
+  height: 62px;
+  position: absolute;
+}
+.v3-globe11 {
+  top: 0px;
+  left: 163.16357421875px;
+  width: 65px;
+  height: 64px;
+  position: absolute;
+}
+.v3-text18 {
+  top: 535px;
+  left: 4.079089164733887px;
+  color: rgba(255, 255, 255, 1);
+  width: 485px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.v3-frame81 {
+  top: 497px;
+  left: 4px;
+  width: 476px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.v3-text20 {
+  color: rgba(255, 255, 255, 1);
+  width: 476px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.v3-jakub1 {
+  top: 6px;
+  left: 54.2353515625px;
+  width: 386px;
+  height: 441px;
+  position: absolute;
+  border-radius: 20px;
+}
+.v3-group74 {
+  top: 0px;
+  left: 0px;
+  width: 489.49072265625px;
+  height: 718px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.v3-antonio {
+  top: 0px;
+  left: 0px;
+  width: 489.49072265625px;
+  height: 718px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 42px;
+}
+.v3-background2 {
+  top: -18px;
+  left: 30.593170166015625px;
+  width: 434px;
+  height: 495px;
+  position: absolute;
+}
+.v3-simonhfrostanacrylicbustportraitpaintingofanewzeal2 {
+  top: 9px;
+  left: 54px;
+  width: 382px;
+  height: 437px;
+  position: absolute;
+  border-radius: 20px;
+}
+.v3-group732 {
+  top: 594px;
+  left: 130.53085327148438px;
+  width: 228.42901611328125px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.v3-linked-iniconcircle12 {
+  top: 0px;
+  left: 0px;
+  width: 63px;
+  height: 62px;
+  position: absolute;
+}
+.v3-githublogo12 {
+  top: 0px;
+  left: 81.581787109375px;
+  width: 63px;
+  height: 62px;
+  position: absolute;
+}
+.v3-globe12 {
+  top: 0px;
+  left: 163.16357421875px;
+  width: 65px;
+  height: 64px;
+  position: absolute;
+}
+.v3-text22 {
+  top: 535px;
+  left: 4.079089164733887px;
+  color: rgba(255, 255, 255, 1);
+  width: 485px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.v3-frame82 {
+  top: 497px;
+  left: 4px;
+  width: 476px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.v3-text24 {
+  color: rgba(255, 255, 255, 1);
+  width: 476px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.v3-image16569709767841 {
+  top: 6px;
+  left: 56px;
+  width: 378px;
+  height: 456px;
+  position: absolute;
+  border-radius: 20px;
+}
+.v3-group76 {
+  top: 1447px;
+  left: 218px;
+  width: 1484px;
+  height: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.v3-frame7 {
+  gap: 190px;
+  top: 0px;
+  left: 0px;
+  width: 1484px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.v3-planetblack {
+  width: 205px;
+  height: 100px;
+}
+.v3-n26black {
+  width: 100px;
+  height: 100px;
+}
+.v3-klarblack {
+  width: 262px;
+  height: 70px;
+}
+.v3-sapblack {
+  width: 233px;
+  height: 100px;
+}
