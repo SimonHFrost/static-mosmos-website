@@ -1,4 +1,6 @@
 body {
+    position: relative;
+
     background: linear-gradient(to bottom, #0B1326, #0B1326 50%, #17B57E);
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -11,12 +13,13 @@ body {
 }
 
 .wrapper {
-    position: relative;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;;
     text-align: center;
+    max-width: 60vw;
+    margin: auto;
 }
 
 .background-icon-gradient {
@@ -43,7 +46,6 @@ body {
 }
 
 .profiles {
-    max-width: 60%;
     display: flex;
     justify-content: space-around;
 }
