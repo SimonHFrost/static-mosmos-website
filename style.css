@@ -57,6 +57,12 @@ body {
     flex: 1;
 }
 
+@media screen and (max-width: 768px) {
+    .profiles {
+        flex-direction: column;
+    }
+}
+
 h3 {
     margin-bottom: 8px;
 }
