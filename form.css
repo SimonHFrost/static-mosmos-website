@@ -11,7 +11,7 @@ form {
   margin-bottom: 32px;
 }
 
-h2 {
+form h2 {
   color: black;
   font-size: 1.5rem;
   font-weight: bold;
@@ -29,6 +29,7 @@ textarea {
   padding: 0.5rem;
   border: 1px solid #ccc;
   border-radius: 0.25rem;
+  font-family: "Ubuntu", sans-serif;
 }
 
 button {
