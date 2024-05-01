@@ -94,6 +94,12 @@ h3 {
     flex: 1;
 }
 
+@media screen and (max-width: 768px) {
+    .companies {
+        flex-direction: column;
+    }
+}
+
 .company-icon {
     height: 64px;
 }
