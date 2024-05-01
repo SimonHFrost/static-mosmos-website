@@ -3,7 +3,7 @@ body {
     display: flex;
     flex-direction: column;
 
-    background: linear-gradient(to bottom, #0B1326, #0B1326 50%, #17B57E);
+    background: linear-gradient(to bottom, #0B1326, #0B1326 50%, #3F66B0 70%, #17B57E);
     background-repeat: no-repeat;
     background-attachment: fixed;
     color: white;
