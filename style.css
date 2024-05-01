@@ -55,6 +55,21 @@ body {
     width: 200px;
 }
 
+.profile-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
 .profile-icon {
     width: 32px;
+}
+
+.companies {
+    display: flex;
+    flex-direction: row;
+}
+
+.company-icon {
+    height: 64px;
 }
