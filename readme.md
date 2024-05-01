@@ -1,4 +1,6 @@
 Static Mosmos Website - mosmos.mx
 ---
 
-to run: `npx http-server`
+To run: `npx http-server ./`
+
+All pushed changes will be auto deployed to mosmos.mx
