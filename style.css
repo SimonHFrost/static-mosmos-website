@@ -15,6 +15,7 @@ body {
     padding-top: 42px;
 }
 
+h2,
 p {
     line-height: 32px;
 }
@@ -29,6 +30,10 @@ p {
     margin-left: auto;
     margin-right: auto;
     flex: 1;
+}
+
+.bold {
+    font-weight: 900;
 }
 
 footer {
@@ -47,8 +52,9 @@ footer {
 }
 
 .hero {
-    margin-top: 64px;
     position: relative;
+    margin-top: 64px;
+    max-width: 80%;
 }
 
 .main-logo {
