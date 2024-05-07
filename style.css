@@ -20,6 +20,10 @@ p {
     line-height: 32px;
 }
 
+h3 {
+    margin-bottom: 8px;
+}
+
 .wrapper {
     display: flex;
     flex-direction: column;
@@ -30,13 +34,6 @@ p {
     margin-left: auto;
     margin-right: auto;
     flex: 1;
-}
-
-@media screen and (min-width: 768px) {
-    .profiles {
-        max-width: 60vw;
-        flex-direction: row;
-    }
 }
 
 .bold {
@@ -64,9 +61,27 @@ footer {
     max-width: 80%;
 }
 
-.main-logo {
-    width: 600px;
-    margin: auto;
+.main-logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-bottom: 16px;
+
+    .main-logo {
+        width: 100px;
+    }
+
+    .main-logo-title {
+        font-family: "Tilt Neon", sans-serif;
+        font-size: 60px;
+    }
+
+    .main-logo-subtitle {
+        font-size: 32px;
+    }
 }
 
 .subtitle {
@@ -88,10 +103,6 @@ footer {
     .profiles {
         flex-direction: row;
     }
-}
-
-h3 {
-    margin-bottom: 8px;
 }
 
 .profile-picture {
