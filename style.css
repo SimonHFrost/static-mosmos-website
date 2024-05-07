@@ -26,10 +26,17 @@ p {
     justify-content: center;
     align-items: center;
     text-align: center;
-    max-width: 60vw;
+    max-width: 90vw;
     margin-left: auto;
     margin-right: auto;
     flex: 1;
+}
+
+@media screen and (min-width: 768px) {
+    .profiles {
+        max-width: 60vw;
+        flex-direction: row;
+    }
 }
 
 .bold {
@@ -70,15 +77,16 @@ footer {
 
 .profiles {
     display: flex;
+    flex-direction: column;
     justify-content: space-around;
 
     width: 100%;
     flex: 1;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) {
     .profiles {
-        flex-direction: column;
+        flex-direction: row;
     }
 }
 
@@ -106,16 +114,16 @@ h3 {
 
 .companies {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-around;
 
     width: 100%;
     flex: 1;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) {
     .companies {
-        flex-direction: column;
+        flex-direction: row;
     }
 }
 
@@ -152,7 +160,7 @@ h3 {
 }
 
 
-/* Put above backgound iage */
+/* Put above backgound image */
 .mission,
 form {
     z-index: 10;
