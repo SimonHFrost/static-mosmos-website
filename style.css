@@ -105,6 +105,14 @@ footer {
     }
 }
 
+.profile {
+    margin-bottom: 16px;
+}
+
+.profile:last-of-type {
+    margin-bottom: 0px;
+}
+
 .profile-picture {
     border: solid 2px white;
     width: 150px;
@@ -114,9 +122,17 @@ footer {
 .profile-links {
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: center;
     padding-left: 32px;
     padding-right: 32px;
+
+    a {
+        margin-right: 8px;
+    }
+
+    a:last-of-type {
+        margin-bottom: 0px;
+    }
 }
 
 .profile-icon {
