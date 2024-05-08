@@ -132,7 +132,10 @@ footer {
 
 .profile-picture {
     border: solid 2px white;
-    width: 150px;
+    /* width: 150px; */
+    width: 164px;
+    height: 218.75px;
+
     margin-bottom: 8px;
 }
 
