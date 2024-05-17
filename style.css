@@ -212,10 +212,3 @@ footer {
 .footer-image {
     max-width: 50vw;
 }
-
-
-/* Put above backgound image */
-.mission,
-form {
-    z-index: 10;
-}
